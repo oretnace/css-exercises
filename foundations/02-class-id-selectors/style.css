@@ -8,6 +8,11 @@
     font-size: 36px;
 }
 
-#third {
+.mediumText {
     font-size: 24px;
+}
+
+#fourth {
+    background-color: #91e6c5;
+    font-weight: bold;
 }
