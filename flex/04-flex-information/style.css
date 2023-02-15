@@ -16,6 +16,8 @@ img {
 
 .content-container {
   display: flex;
+  justify-content: space-evenly;
+  gap: 52px;
 }
 
 /* do not edit this footer */
