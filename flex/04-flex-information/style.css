@@ -18,10 +18,18 @@ img {
   text-align: center;
 }
 
-.content-container {
+.content-container, .item-container {
   display: flex;
+}
+
+.content-container {
   justify-content: space-evenly;
   gap: 52px;
+}
+
+.item-container {
+  flex-direction: column;
+  align-items: center;
 }
 
 /* do not edit this footer */
