@@ -10,8 +10,12 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  text-align: center;
+  
   margin-bottom: 32px;
+}
+
+.title, .text {
+  text-align: center;
 }
 
 .content-container {
