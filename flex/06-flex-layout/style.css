@@ -29,6 +29,14 @@ body, .content {
   background-color: #eeeeee;
 }
 
+.left-links {
+  margin-left: 8px;
+}
+
+.right-links {
+  margin-right: 8px;
+}
+
 img {
   width: 600px;
 }
