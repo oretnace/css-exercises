@@ -37,6 +37,10 @@ ul {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 button {
   font-family: Roboto, sans-serif;
   border: none;
