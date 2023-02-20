@@ -6,7 +6,7 @@ body {
   justify-content: space-between;
 }
 
-body, .header, .content, .footer {
+body, .header, .content, .main, .footer {
   display: flex;
 }
 
@@ -30,6 +30,10 @@ body, .header, .content, .footer {
 .sidebar {
   width: 300px;
   background: royalblue;
+}
+
+.main {
+  flex-wrap: wrap;
 }
 
 .card {
