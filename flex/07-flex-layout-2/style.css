@@ -32,6 +32,11 @@ body, .header, .content, .main, .footer {
   background: royalblue;
 }
 
+ul {
+  text-decoration: none;
+  padding: 0;
+}
+
 .main {
   flex-wrap: wrap;
 }
