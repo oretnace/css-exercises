@@ -6,7 +6,7 @@ body {
   justify-content: space-between;
 }
 
-body, .content {
+body, .content, .footer {
   display: flex;
 }
 
@@ -22,6 +22,8 @@ body, .content {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
