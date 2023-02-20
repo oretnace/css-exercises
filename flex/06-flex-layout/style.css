@@ -5,14 +5,15 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  justify-content: space-between;
 }
 
-.body, .header, .content, .footer, 
+body, .header, .content, .footer, 
 .left-links, .right-links {
   display: flex;
 }
 
-.body, .content {
+body, .content {
   flex-direction: column;
 }
 
