@@ -44,6 +44,7 @@ a {
 
 a, button {
   font-weight: bold;
+  padding: 0px 8px;
 }
 
 button {
@@ -51,7 +52,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding: 8px;
+  padding: 8px 16px;
 }
 
 input {
