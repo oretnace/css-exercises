@@ -42,6 +42,10 @@ a {
   color: grey;
 }
 
+a, button {
+  font-weight: bold;
+}
+
 button {
   font-family: Roboto, sans-serif;
   border: none;
