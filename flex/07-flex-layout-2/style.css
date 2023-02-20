@@ -30,6 +30,7 @@ body, .header, .content, .main, .footer {
 .sidebar {
   width: 300px;
   background: royalblue;
+  padding: 16px;
 }
 
 ul, a {
