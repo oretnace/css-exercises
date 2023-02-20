@@ -32,9 +32,17 @@ body, .header, .content, .main, .footer {
   background: royalblue;
 }
 
-ul {
+ul, a {
   text-decoration: none;
+}
+
+ul {
   padding: 0;
+}
+
+a {
+  font-size: 24px;
+  color: white;
 }
 
 .main {
